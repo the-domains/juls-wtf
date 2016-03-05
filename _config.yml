@@ -1,29 +1,41 @@
-name: juls.wtf
-favicon: null
-layout_spectrum: 0.8549301500897855
-typography_spectrum: 0.65595
 title: Juls.wtf
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5722033306956291
+  brandStrength: 0.5553191
+  lightness: 0.3224778738804162
+  brandColors:
+    - '#1F031F'
+    - '#80535C'
+    - '#F1FAE2'
+    - '#A39A9A'
+    - '#E09A03'
+  rhythmicContrast: 0.7055640981998295
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: juls.wtf
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#0d0817'
-    - '#1d2a4f'
-    - '#5c4544'
-    - '#005352'
-  brandStrength: 0.6732550133019686
-  lightness: 0.32247787388041615
-  saturation: 0.5722033306956291
-  rhythmicContrast: 0.7055640981998295
-purpose: []
+typography_spectrum: 0.587234
+layout_spectrum: 0.8549301500897855
