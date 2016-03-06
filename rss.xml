@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Juls.wtf]]></title>
         <description><![CDATA[Juls.wtf]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://juls.wtf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 07:52:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 21:46:01 GMT</lastBuildDate>
+        <atom:link href="http://juls.wtf/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>julsie is testing</p>]]></description>
+            <link>http://juls.wtf/e139ed29-4df6-4261-b34b-08c8ab434ada/index.html</link>
+            <guid isPermaLink="false">e139ed29-4df6-4261-b34b-08c8ab434ada</guid>
+            <pubDate>Sun, 06 Mar 2016 21:42:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test for juls.wtf</p>]]></description>
-            <link>undefined63ceffd8-acb7-4a47-88bd-372aa7dc0700/index.html</link>
+            <link>http://juls.wtf/63ceffd8-acb7-4a47-88bd-372aa7dc0700/index.html</link>
             <guid isPermaLink="false">63ceffd8-acb7-4a47-88bd-372aa7dc0700</guid>
             <pubDate>Sat, 05 Mar 2016 07:52:17 GMT</pubDate>
         </item>
