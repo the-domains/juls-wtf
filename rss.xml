@@ -4,7 +4,7 @@
         <description><![CDATA[Juls.wtf]]></description>
         <link>http://juls.wtf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 13:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 13:22:45 GMT</lastBuildDate>
         <atom:link href="http://juls.wtf/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://juls.wtf/75f2395e-76c4-4135-9894-1d3d1e4556e1/index.html</link>
             <guid isPermaLink="false">75f2395e-76c4-4135-9894-1d3d1e4556e1</guid>
             <pubDate>Sat, 16 Apr 2016 13:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>julsie is testing</p>]]></description>
-            <link>http://juls.wtf/e139ed29-4df6-4261-b34b-08c8ab434ada/index.html</link>
-            <guid isPermaLink="false">e139ed29-4df6-4261-b34b-08c8ab434ada</guid>
-            <pubDate>Sun, 06 Mar 2016 21:42:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
