@@ -1,8 +1,30 @@
-name: juls.wtf
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.587234
-title: Juls.wtf
+color:
+  brandColors:
+    - '#ffffff'
+    - '#0d0817'
+    - '#1d2a4f'
+    - '#5c4544'
+    - '#005352'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.375
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: juls.wtf
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d2a089c-50c6-4c07-a210-938edd5df154.jpg'
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#0d0817'
-    - '#1d2a4f'
-    - '#5c4544'
-    - '#005352'
-  brandStrength: 0.5
-  lightness: 0.3125
-  saturation: 0.375
-  rhythmicContrast: 0.75
+title: Juls.wtf
 purpose: []
